@@ -12,4 +12,4 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ### Contact
-[LinkedIn](your-linkedin-link) · aarav255012@iiitmanipur.ac.in
+[LinkedIn](https://www.linkedin.com/in/aarav-singh-214716383) · aarav255012@iiitmanipur.ac.in
